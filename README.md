@@ -3,10 +3,9 @@
 - Get Updated Template from 
   - [Overleaf]()
   - [GitHub](https://github.com/yihanYozikua/ntu_master_thesis_template_latex)
+- Use it in VScode
+  - Highly Recommend to use extension [LaTex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 
-## How to Use
-1. Download from GitHub (via *Download button* or *command*)
-2. 
 
 ## 需要修改的參數
 ### 語言設定
