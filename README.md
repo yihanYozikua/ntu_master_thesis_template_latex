@@ -4,6 +4,10 @@
   - [Overleaf]()
   - [GitHub](https://github.com/yihanYozikua/ntu_master_thesis_template_latex)
 
+## How to Use
+1. Download from GitHub (via *Download button* or *command*)
+2. 
+
 ## 需要修改的參數
 ### 語言設定
 - 修改 `main.tex` #9 `language` 參數
