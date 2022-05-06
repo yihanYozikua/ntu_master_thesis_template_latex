@@ -1,5 +1,8 @@
-# NTU ESOE CBEL Master Thesis of Yi-Han Hsiao
-> Brain Tumor Segmentation
+# 台大工學院碩士論文模板（NTU Master Thesis Template Revision）
+> Reference from: [Hsin's GitHub Repo / NTU-Thesis-LaTeX-Template](https://github.com/Hsins/NTU-Thesis-LaTeX-Template)
+- Get Updated Template from 
+  - [Overleaf]()
+  - [GitHub](https://github.com/yihanYozikua/ntu_master_thesis_template_latex)
 
 ## 需要修改的參數
 ### 語言設定
@@ -9,6 +12,7 @@
 - 修改 `ntusetup.tex` 的內容
 
 ### 致謝
+- 請寫上你想感謝的人事物動物
 
 ### 摘要/Abstract
 - 關鍵字：修改 `ntusetup.tex` 的 `keywords` 和 `keywords*` 參數
