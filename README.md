@@ -1,7 +1,7 @@
 # 台大工學院碩士論文模板（NTU Master Thesis Template Revision）
 > Reference from: [Hsin's GitHub Repo / NTU-Thesis-LaTeX-Template](https://github.com/Hsins/NTU-Thesis-LaTeX-Template)
 - Get Updated Template from 
-  - [Overleaf]()
+  - [Overleaf](https://www.overleaf.com/latex/templates/tai-da-gong-xue-yuan-shuo-bo-shi-lun-wen-mo-ban-national-taiwan-university-master-and-doctor-thesis-template/cytcmpsxzrxr)
   - [GitHub](https://github.com/yihanYozikua/ntu_master_thesis_template_latex)
 - Use it in VScode
   - Highly Recommend to use extension [LaTex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
